@@ -1,0 +1,42 @@
+[Thu Sep 28 06:28:03 CEST 2023] - Démarrage du script.
+[Thu Sep 28 06:28:03 CEST 2023] - Lecture du fichier CSV.
+[Thu Sep 28 06:28:03 CEST 2023] - Ligne parsée - Id: Id, Nom: Prenom, Prenom: Nom, Role: Role, Mdp: Mdp
+[Thu Sep 28 06:28:03 CEST 2023] - L'utilisateur Prenom existe déjà.
+[Thu Sep 28 06:28:03 CEST 2023] - Utilisateur Prenom créé.
+[Thu Sep 28 06:28:03 CEST 2023] - Ligne parsée - Id: 1001, Nom: Octavia, Prenom: Blake, Role: User, Mdp: U9nh4W
+[Thu Sep 28 06:28:03 CEST 2023] - L'utilisateur Octavia existe déjà.
+[Thu Sep 28 06:28:03 CEST 2023] - Utilisateur Octavia créé.
+[Thu Sep 28 06:28:03 CEST 2023] - Ligne parsée - Id: 1002, Nom: Bellamy, Prenom: Blake, Role: Admin, Mdp: 2Nn2Ja
+[Thu Sep 28 06:28:03 CEST 2023] - L'utilisateur Bellamy existe déjà.
+[Thu Sep 28 06:28:09 CEST 2023] - Utilisateur Bellamy créé.
+[Thu Sep 28 06:28:09 CEST 2023] - Ligne parsée - Id: 1003, Nom: Abigail, Prenom: Griffin, Role: User, Mdp: v8G2Zc
+[Thu Sep 28 06:28:09 CEST 2023] - L'utilisateur Abigail existe déjà.
+[Thu Sep 28 06:28:09 CEST 2023] - Utilisateur Abigail créé.
+[Thu Sep 28 06:28:09 CEST 2023] - Ligne parsée - Id: 1004, Nom: Finn, Prenom: Collins, Role: User, Mdp: N98rqT
+[Thu Sep 28 06:28:09 CEST 2023] - L'utilisateur Finn existe déjà.
+[Thu Sep 28 06:28:09 CEST 2023] - Utilisateur Finn créé.
+[Thu Sep 28 06:28:09 CEST 2023] - Ligne parsée - Id: 1005, Nom: Jasper, Prenom: Jordan, Role: User, Mdp: 8Ltk4R
+[Thu Sep 28 06:28:09 CEST 2023] - L'utilisateur Jasper existe déjà.
+[Thu Sep 28 06:28:09 CEST 2023] - Utilisateur Jasper créé.
+[Thu Sep 28 06:28:09 CEST 2023] - Ligne parsée - Id: 1006, Nom: Raven, Prenom: Reyes, Role: Admin, Mdp: n45RQz
+[Thu Sep 28 06:28:09 CEST 2023] - L'utilisateur Raven existe déjà.
+[Thu Sep 28 06:28:09 CEST 2023] - Utilisateur Raven créé.
+[Thu Sep 28 06:28:09 CEST 2023] - Ligne parsée - Id: 1007, Nom: Monty, Prenom: Green, Role: User, Mdp: Y3yzP4
+[Thu Sep 28 06:28:09 CEST 2023] - L'utilisateur Monty existe déjà.
+[Thu Sep 28 06:28:09 CEST 2023] - Utilisateur Monty créé.
+[Thu Sep 28 06:28:09 CEST 2023] - Ligne parsée - Id: 1008, Nom: Clarke, Prenom: Griffin, Role: Admin, Mdp: f56SxP
+[Thu Sep 28 06:28:09 CEST 2023] - L'utilisateur Clarke existe déjà.
+[Thu Sep 28 06:28:09 CEST 2023] - Utilisateur Clarke créé.
+[Thu Sep 28 06:28:09 CEST 2023] - Ligne parsée - Id: 1009, Nom: Marcus, Prenom: Jane, Role: User, Mdp: bNw4T9
+[Thu Sep 28 06:28:09 CEST 2023] - L'utilisateur Marcus existe déjà.
+[Thu Sep 28 06:28:09 CEST 2023] - Utilisateur Marcus créé.
+[Thu Sep 28 06:28:09 CEST 2023] - Ligne parsée - Id: 1010, Nom: John, Prenom: Murphy, Role: User, Mdp: zT5fH2
+[Thu Sep 28 06:28:09 CEST 2023] - L'utilisateur John existe déjà.
+[Thu Sep 28 06:28:09 CEST 2023] - Utilisateur John créé.
+[Thu Sep 28 06:28:09 CEST 2023] - Ligne parsée - Id: 1011, Nom: Wells, Prenom: Jaha, Role: User, Mdp: z4b5RJ
+[Thu Sep 28 06:28:09 CEST 2023] - L'utilisateur Wells existe déjà.
+[Thu Sep 28 06:28:09 CEST 2023] - Utilisateur Wells créé.
+[Thu Sep 28 06:28:09 CEST 2023] - Ligne parsée - Id: 1012, Nom: Maddy, Prenom: Griffin, Role: Admin, Mdp: 9jqW9F
+[Thu Sep 28 06:28:09 CEST 2023] - L'utilisateur Maddy existe déjà.
+[Thu Sep 28 06:28:09 CEST 2023] - Utilisateur Maddy créé.
+[Thu Sep 28 06:28:09 CEST 2023] - Fin du script.
